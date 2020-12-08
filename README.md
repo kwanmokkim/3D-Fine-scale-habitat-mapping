@@ -1,4 +1,4 @@
-# 3D-fine scale habitat mapping of oyster clusters 
+# 3D-Fine scale Habitat Mapping of oyster clusters 
 Creating fine-scale 3D habitat map from CT-scanned imagery using hidden point removal algorithm
 
 The codes below present ways to : 
